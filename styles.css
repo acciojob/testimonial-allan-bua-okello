@@ -1,1 +1,26 @@
 /*  your css code here. If applicable */
+*{
+	padding:20px;
+	background-color:#eee;
+	
+}
+h1{
+	padding:0px;
+}
+#testimonial{
+	padding:20px;
+	border: 1px solid black;
+	box-sizing:border-box;
+	margin-top:20px;
+	background-color:white;
+}
+#cont{
+	background-color:white;
+	padding:0px;
+}
+#author{
+	text-align:right;
+	font-style:italic;
+	padding:0px;
+	background-color:white;
+}
